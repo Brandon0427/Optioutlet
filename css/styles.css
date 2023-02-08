@@ -327,4 +327,18 @@ th{
     #container-intro{
         text-align: center;
     }
+
+    .div-ad{
+        padding: 1rem 5% 1rem 5%;
+        text-align: center;
+    }
+
+    .image-ad{
+        width: 50%;
+    }
+
+    .image-ad-1, .image-ad-2{
+        text-align: center;
+    }
+    
 }
