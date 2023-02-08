@@ -293,6 +293,10 @@ th{
     padding: 5% 0;
 }
 
+.colored-section-cta{
+    background-image: radial-gradient(circle at 58.25% 49.28%, #a2f0f3 0, #7edce5 25%, #4ec4d3 50%, #00acc3 75%, #0099b6 100%);
+}
+
 /* -----Footer----- */
 #footer{
     background-color:  #eee7e7;
